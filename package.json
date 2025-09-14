@@ -1,8 +1,9 @@
 {
-  "name": "elyra---digital-marketing",
+  "name": "elyra-digital-marketing",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://elyra.ssmpoly.in",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
